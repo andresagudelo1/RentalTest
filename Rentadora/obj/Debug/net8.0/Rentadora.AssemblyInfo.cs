@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rentadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0d84ea2c253d8da716d72829bb40ae287377e17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rentadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rentadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
