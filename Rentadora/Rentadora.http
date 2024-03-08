@@ -1,0 +1,6 @@
+@Rentadora_HostAddress = http://localhost:5262
+
+GET {{Rentadora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
